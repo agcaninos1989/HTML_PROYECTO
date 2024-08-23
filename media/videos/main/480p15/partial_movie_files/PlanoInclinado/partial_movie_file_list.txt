@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/PlanoInclinado/1185818338_3634073471_223132457.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/PlanoInclinado/624642324_1340007287_3087715698.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/PlanoInclinado/624642324_880885124_2507749134.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/PlanoInclinado/624642324_2250870876_2470617636.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/PlanoInclinado/624642324_1141282389_2139008597.mp4'

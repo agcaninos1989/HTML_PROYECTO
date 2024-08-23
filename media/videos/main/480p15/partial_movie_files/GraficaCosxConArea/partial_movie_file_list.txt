@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/GraficaCosxConArea/1185818338_1685539601_223132457.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/GraficaCosxConArea/624642324_2715202393_1435682672.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/GraficaCosxConArea/624642324_3115474144_2561684424.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/GraficaCosxConArea/624642324_4071450866_94642812.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/GraficaCosxConArea/624642324_1141282389_3227096377.mp4'

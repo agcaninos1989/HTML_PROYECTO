@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/AnimateEquation/1185818338_790298132_223132457.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/AnimateEquation/624642324_3343350790_2199742947.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/AnimateEquation/624642324_3890345977_1388033452.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/AnimateEquation/624642324_3664057667_3794313645.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/AnimateEquation/624642324_3890345977_3532824927.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/AnimateEquation/624642324_4218977193_800124164.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/AnimateEquation/624642324_3890345977_3890221153.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/AnimateEquation/624642324_3871754095_207887883.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/AnimateEquation/624642324_1141282389_2964741657.mp4'

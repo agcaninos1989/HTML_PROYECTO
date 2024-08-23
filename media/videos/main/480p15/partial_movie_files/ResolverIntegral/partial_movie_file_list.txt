@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/1185818338_2122865033_223132457.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/624642324_3890345977_1952072726.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/624642324_1910546803_2868931016.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/624642324_3890345977_2634375395.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/624642324_1075271809_1733836335.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/624642324_3890345977_2234541725.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/624642324_3524030232_2918025656.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/624642324_3890345977_272310505.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/624642324_3340433580_2434705713.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/624642324_3890345977_1399692928.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/624642324_2132006127_2371918695.mp4'
+file 'file:/Users/user/Desktop/manim/media/videos/main/480p15/partial_movie_files/ResolverIntegral/624642324_1141282389_2903003303.mp4'
